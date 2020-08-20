@@ -1,4 +1,4 @@
-# MagmaDNN
+# Solarium
 
 An AI and IoT system for solar panels using C, Python etc. aimed at providing a simple, modularized architectures. If you're looking to contribute or submit a pull-requests/issues, then please do so on the github development repository.
 
