@@ -1,0 +1,7 @@
+Dragino Wiki: http://wiki.dragino.com/index.php?title=Main_Page
+Dragino 01N Gateway Manual: http://www.dragino.com/downloads/downloads/LoRa_Gateway/LG01N/LG01N_LoRa_Gateway_User_Manual_v1.3.0.pdf
+Dragino Gateway Manual: http://www.dragino.com/downloads/downloads/LoRa_IoT_Kit/v2-Kit/Single%20Channel%20LoRa%20IoT%20Kit%20v2%20User%20Manual_v1.0.2.pdf
+LoRaWAN Academy: https://lora-developers.semtech.com/resources/lorawan-academy/courses/
+Make Arduino Library Yourself: https://blog.csdn.net/qq_26870279/article/details/53463710?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduend~default-2-53463710.nonecase&utm_term=arduino%20%E6%B7%BB%E5%8A%A0%E5%A4%B4%E6%96%87%E4%BB%B6
+Make Project Files from INO: https://blog.csdn.net/codalion/article/details/86014560?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-1&spm=1001.2101.3001.4242
+
